@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include <math.h>
 
 int main()
 {
-	int a;
-	printf("HELLO WORLD!\n");
+	int a = 1024;
+	printf("HELLO WORLD!\na = %d\n",a);
 	return 0;
 }
