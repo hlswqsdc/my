@@ -4,6 +4,6 @@
 int main()
 {
 	int a = 1024;
-	printf("HELLO WORLD!\na = %d\n",a);
+	printf("HELLO WORLD!\na = %f\n",sqrt(a));
 	return 0;
 }
